@@ -1,0 +1,7 @@
+.helpcard {
+    width: 260px;
+    height: 260px;
+    background-color: blueviolet;
+    font-size: 32px;
+    border: 2px solid;
+}
